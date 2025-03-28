@@ -1,0 +1,159 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-language" content="ru">
+
+    <meta property="og:site_name" content="SCP Foundation">
+    <meta property="og:title" content="SCP Foundation">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="//scpfoundation.net/api/articles/">
+    
+        <meta name="twitter:card" content="summary">
+    
+
+    <title>SCP Foundation</title>
+
+    <link rel="icon" type="image/x-icon" href="/local--files/-/sites/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="/-/static/fontawesome/css/all.css?v=30bcab9c">
+
+    <link rel="stylesheet" type="text/css" href="/-/static/wikidot-base.css?v=b2c9303e">
+    <link rel="stylesheet" type="text/css" href="/-/static/scp-base.css?v=95800ac6">
+
+    <script src="/-/static/app.js?v=20cd4338" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="/-/static/app.css?v=96e6d2d1">
+
+    
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JWJNBTHZ2J"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G\u002DJWJNBTHZ2J');
+        </script>
+    
+</head>
+<body id="html-body">
+    <div id="skrollr-body">
+        <a name="page-top"></a>
+        <div id="container-wrap-wrap">
+            <div id="container-wrap">
+                <div id="container">
+                    <div id="header">
+                        <h1><a href="/"><span>SCP Foundation</span></a></h1>
+                        <h2><span>Russian Branch</span></h2>
+                        <div id="search-top-box" class="form-search">
+                            <form id="search-top-box-form" class="w-ref-form" data-target-page="search:site">
+                                <input id="search-top-box-input" class="text search-query" type="text" name="q" placeholder="Поиск на этом сайте">
+                                <input class="button btn" type="submit" value="Искать">
+                            </form>
+                        </div>
+                        <div id="top-bar">
+                            <div class="top-bar"><ul><li><a href="#">Обновления</a><ul><li><a href="/news">Новости</a></li><li><a href="/most-recently-created">Новые статьи</a></li><li><a href="/system:recent-changes">Свежие правки</a></li><li><a href="/forum:recent-posts">Новые сообщения</a></li></ul></li><li><a href="#">Правила сайта</a><ul><li><a href="/system:join">Регистрация</a></li><li><a href="/sandbox:main">Правила публикации</a></li><li><a href="/contacts">Контакты администрации</a></li><li><a href="/faq">Часто задаваемые вопросы (FAQ)</a></li></ul></li><li><a href="#">Автору</a><ul><li><a href="/how-to-write-an-scp">Как написать SCP-объект</a></li><li><a href="/scp-template">Оформление</a></li><li><a href="/wiki-syntax-guide">Техническое руководство по викиразметке</a></li><li><a href="/tag-guide">Руководство по тегам</a></li><li><a href="/the-big-list-of-overdone-scp-cliches">Список наиболее раскрытых тем</a></li><li><a href="/essays">Очерки</a></li><li><a href="/themes-hub">Хаб визуальных тем</a></li><li><a href="/licensing-ru">Список авторства</a></li><li><a href="/authors-pages">Авторские страницы</a></li></ul></li><li><a href="#">Переводчику</a><ul><li><a href="/glossary">Глоссарий</a></li><li><a href="/translations-planning">Планы на перевод</a></li><li><a href="/sandbox:not-translated">Объекты без перевода</a></li><li><a href="/tag-guide">Руководство по тегам</a></li><li><a href="/essays#toc19">Очерки</a></li><li><a href="/themes-hub">Хаб визуальных тем</a></li><li><a href="/licensing">Список авторства</a></li></ul></li><li><a href="#">Архивы</a><ul><li><a href="https://scpsandbox.wikidot.com/">Старый Полигон</a></li><li><a href="/archived-scps">Архив статей</a></li><li><a href="/contests">Архив конкурсов</a></li><li><a href="/news-archive">Архив новостей</a></li><li><a href="/site-7-midnight-radio">Site 7 Midnight Radio</a></li><li><a href="/site-7-media-archive">Site 7 Media Archive</a></li></ul></li><li><a href="#">Общение</a><ul><li><a href="/chat">Чат</a></li><li><a href="/forum/start">Форум</a></li><li><a href="/forum/s-3/obsuzdenie-i-znakomstvo">Обсуждения</a></li><li><a href="/forum/s-4/idei-i-tvorcestvo">Идеи и творчество</a></li><li><a href="/forum/s-5/voprosi-perevoda">Вопросы перевода</a></li><li><a href="/forum/s-2/tehniceskoe">Техническое</a></li></ul></li></ul></div><div class="mobile-top-bar"><div class="open-menu"><p><a href="#side-bar">≡</a></p></div><ul><li><a href="#">Обновления</a><ul><li><a href="/news">Новости</a></li><li><a href="/most-recently-created">Новые статьи</a></li><li><a href="/system:recent-changes">Свежие правки</a></li><li><a href="/forum:recent-posts">Новые сообщения</a></li></ul></li><li><a href="#">Правила сайта</a><ul><li><a href="/system:join">Регистрация</a></li><li><a href="/sandbox:main">Правила публикации</a></li><li><a href="/contacts">Контакты администрации</a></li><li><a href="/faq">Часто задаваемые вопросы (FAQ)</a></li></ul></li><li><a href="#">Автору</a><ul><li><a href="/how-to-write-an-scp">Как написать SCP-объект</a></li><li><a href="/scp-template">Оформление</a></li><li><a href="/wiki-syntax-guide">Техническое руководство по викиразметке</a></li><li><a href="/tag-guide">Руководство по тегам</a></li><li><a href="/the-big-list-of-overdone-scp-cliches">Список избитых штампов</a></li><li><a href="/essays">Очерки</a></li><li><a href="/licensing-ru">Список авторства</a></li><li><a href="/authors-pages">Авторские страницы</a></li></ul></li><li><a href="#">Переводчику</a><ul><li><a href="/glossary">Глоссарий</a></li><li><a href="/translations-planning">Планы на перевод</a></li><li><a href="/sandbox:not-translated">Объекты без перевода</a></li><li><a href="/tag-guide">Руководство по тегам</a></li><li><a href="/essays#toc19">Очерки</a></li><li><a href="/themes-hub">Хаб визуальных тем</a></li><li><a href="/licensing">Список авторства</a></li></ul></li><li><a href="#">Архивы</a><ul><li><a href="https://scpsandbox.wikidot.com/">Старый Полигон</a></li><li><a href="/archived-scps">Архив статей</a></li><li><a href="/contests">Архив конкурсов</a></li><li><a href="/news-archive">Архив новостей</a></li><li><a href="/site-7-midnight-radio">Site 7 Midnight Radio</a></li><li><a href="/site-7-media-archive">Site 7 Media Archive</a></li></ul></li><li><a href="#">Общение</a><ul><li><a href="/chat">Чат</a></li><li><a href="/forum/start">Форум</a></li><li><a href="/forum/s-3/obsuzdenie-i-znakomstvo">Обсуждения</a></li><li><a href="/forum/s-4/idei-i-tvorcestvo">Идеи и творчество</a></li><li><a href="/forum/s-5/voprosi-perevoda">Вопросы перевода</a></li><li><a href="/forum/s-2/tehniceskoe">Техническое</a></li></ul></li></ul></div>
+                        </div>
+                        <div id="login-status" data-config="{&quot;user&quot;: {&quot;type&quot;: &quot;anonymous&quot;, &quot;avatar&quot;: null, &quot;name&quot;: &quot;Anonymous User&quot;, &quot;username&quot;: null, &quot;showAvatar&quot;: true}}">
+                        </div>
+                        <div id="header-extra-div-1"></div>
+                        <div id="header-extra-div-2"></div>
+                        <div id="header-extra-div-3"></div>
+                    </div>
+                    <div id="content-wrap">
+                        <div id="side-bar">
+                            <p><div class="new-bar"><div class="side-block new-side-block random-article-block"><div class="menu-item"><a href="/random:random-page">Случайная статья</a></div><div class="menu-item"><a href="/tags">Поиск по тегам</a></div></div><div class="side-block collapsible-side new-side-block"><div class="w-collapsible collapsible-block"><div class="collapsible-block-folded" style="display: block; "><a class="collapsible-block-link" href="javascript:;">Об Организации</a></div><div class="collapsible-block-unfolded" style="display: none"><div class="collapsible-block-unfolded-link" style><a class="collapsible-block-link" href="javascript:;">Об Организации</a></div><div class="collapsible-block-content"><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/about-the-scp-foundation">Общая информация</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/object-classes">Классы объектов</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/security-clearance-levels">Уровни допуска</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/foundation-counterparts">Филиалы Фонда SCP</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/secure-facilities-locations">Учреждения</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/task-forces">Список МОГ</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/mtf-equipment">Снаряжение МОГ и СБ</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/vehicle-list">Техника МОГ и СБ</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/standard-cell">Камеры содержания</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/personals">Персоналии</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/list-of-foundation-s-internal-departments">Внутренние службы</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/departments">Отделы</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/amnesiac-classification">Амнезиаки</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/scp-objects-classification">Системы стандартизации</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/special-events-classification">Особые события</a></div></div></div></div></div><div class="side-block sns corner-side new-side-block"><div class="menu-item"><a href="/scp-list-ru">Объекты RU</a></div><div class="heading new-heading"><p>Объекты по категориям</p></div><div class="menu-item small menu-article-list"><a href="/scp-series">I</a><span>|</span><a href="/scp-series-2">II</a><span>|</span><a href="/scp-series-3">III</a><span>|</span><a href="/scp-series-4">IV</a><span>|</span><a href="/scp-series-5">V</a><span>|</span><a href="/scp-series-6">VI</a></div><div class="menu-item small menu-article-list"><a href="/scp-series-7">VII</a><span>|</span><a href="/scp-series-8">VIII</a><span>|</span><a href="/scp-series-9">IX</a><span>|</span><a href="/explained-list">EX</a><span>|</span><a href="/scp-list-j">J</a><span>|</span><a href="/interactives-list">S</a></div><div class="heading new-heading"><p>Объекты других филиалов</p></div><div class="menu-item small menu-article-list"><a href="/scp-list-fr">FR</a><span>|</span><a href="/scp-list-jp">JP</a><span>|</span><a href="/scp-list-es">ES</a><span>|</span><a href="/scp-list-pl">PL</a><span>|</span><a href="/scp-list-ua">UA</a><span>|</span><a href="/scp-list-others">INT</a></div><div class="heading new-heading"><p>Рассказы</p></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/foundation-tales">Хаб рассказов</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/stories-ru">Русский филиал</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/stories">Английский филиал</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/stories-other">Прочее</a></div><div class="heading new-heading"><p>Другие материалы</p></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/canon-hub">Канон-хаб</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/groups-of-interest">Связанные организации</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/goi-formats">Форматы СО</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/logs-of-anomalies">Списки аномалий</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/the-leak">За кадром</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/wl:start">Библиотека Странников</a></div></div><div class="side-block sns corner-side new-side-block"><div class="heading new-heading sandbox-heading"><p>Полигон</p></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/new-page-ru">Создать статью</a></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/most-recently-sandboxed">Статьи Полигона</a></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/moderation-page-control">Служебная панель</a></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/system:deleted-pages">Удалённые</a></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/sandbox:drafts">Черновики</a></div></div><div class="side-block new-side-block" id="u-side-footer"><h6><span><a href="/system:page-tags">Список доступных тегов</a></span></h6><div style="font-size:70%;color:#888;margin-top:7px"><p>© SCP Foundation Russia</p><p>Возрастное ограничение: <strong>18+</strong></p><p>Авторство: <a href="/licensing">объекты</a>, <a href="/licensing-ru">ru-объекты</a>, <a href="/wl:the-archives">рассказы Библиотеки</a></p></div></div><p><a class="close-menu" href="##"><img src="//files.scpfoundation.net/local--files/nav:side/black.png" alt="black.png" style="z-index:-1; opacity: 0.3;"></a><br><div class="w-interwiki" data-interwiki-configuration="{&quot;params&quot;: {&quot;article&quot;: &quot;%%this|fullname%%&quot;, &quot;prependline&quot;: &quot;-----\n[[div class=\&quot;side-block sns corner-side new-side-block\&quot;]][[div class=\&quot;heading new-heading sandbox-heading\&quot;]]\u041d\u0430 \u0434\u0440\u0443\u0433\u0438\u0445 \u044f\u0437\u044b\u043a\u0430\u0445[[/div]]&quot;, &quot;appendline&quot;: &quot;[[/div]]&quot;, &quot;language&quot;: &quot;ru&quot;, &quot;order&quot;: &quot;language_native&quot;, &quot;omitlanguage&quot;: &quot;ru&quot;}, &quot;content&quot;: &quot;  [[div_ class=\&quot;menu-item\&quot;]]\n  [[image nav:side/default.png]][[a href=\&quot;%%url%%\&quot; target=\&quot;_blank\&quot; title=\&quot;%%language%%\&quot;]]%%language_native%%[[/a]]\n  [[/div]]\n  &quot;, &quot;loading&quot;: null, &quot;pageId&quot;: null}">None</div></p></div><br><div class="old-bar"><div class="side-block {$new} {$random}"><div class="menu-item"><a href="/random:random-page">Случайная статья</a></div><div class="menu-item"><a href="/tags">Поиск по тегам</a></div></div><div class="side-block {$collapsible} {$new}"><div class="w-collapsible collapsible-block"><div class="collapsible-block-folded" style="display: block; "><a class="collapsible-block-link" href="javascript:;">Об Организации</a></div><div class="collapsible-block-unfolded" style="display: none"><div class="collapsible-block-unfolded-link" style><a class="collapsible-block-link" href="javascript:;">Об Организации</a></div><div class="collapsible-block-content"><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/about-the-scp-foundation">Общая информация</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/object-classes">Классы объектов</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/security-clearance-levels">Уровни допуска</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/foundation-counterparts">Филиалы Фонда SCP</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/secure-facilities-locations">Учреждения</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/task-forces">Список МОГ</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/mtf-equipment">Снаряжение МОГ и СБ</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/vehicle-list">Техника МОГ и СБ</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/standard-cell">Камеры содержания</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/personals">Персоналии</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/list-of-foundation-s-internal-departments">Внутренние службы</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/departments">Отделы</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/amnesiac-classification">Амнезиаки</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/scp-objects-classification">Системы стандартизации</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/special-events-classification">Особые события</a></div></div></div></div></div><div class="side-block sns {$corner} {$new}"><div class="menu-item"><a href="/scp-list-ru">Объекты RU</a></div><div class="heading {$head}"><p>Объекты по категориям</p></div><div class="menu-item small menu-article-list"><a href="/scp-series">I</a><span>|</span><a href="/scp-series-2">II</a><span>|</span><a href="/scp-series-3">III</a><span>|</span><a href="/scp-series-4">IV</a><span>|</span><a href="/scp-series-5">V</a><span>|</span><a href="/scp-series-6">VI</a></div><div class="menu-item small menu-article-list"><a href="/scp-series-7">VII</a><span>|</span><a href="/scp-series-8">VIII</a><span>|</span><a href="/scp-series-9">IX</a><span>|</span><a href="/explained-list">EX</a><span>|</span><a href="/scp-list-j">J</a><span>|</span><a href="/interactives-list">S</a></div><div class="heading {$head}"><p>Объекты других филиалов</p></div><div class="menu-item small menu-article-list"><a href="/scp-list-fr">FR</a><span>|</span><a href="/scp-list-jp">JP</a><span>|</span><a href="/scp-list-es">ES</a><span>|</span><a href="/scp-list-pl">PL</a><span>|</span><a href="/scp-list-ua">UA</a><span>|</span><a href="/scp-list-others">INT</a></div><div class="heading {$head}"><p>Рассказы</p></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/foundation-tales">Хаб рассказов</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/stories-ru">Русский филиал</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/stories">Английский филиал</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/stories-other">Прочее</a></div><div class="heading {$head}"><p>Другие материалы</p></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/canon-hub">Канон-хаб</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/groups-of-interest">Связанные организации</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/goi-formats">Форматы СО</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/logs-of-anomalies">Списки аномалий</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/the-leak">За кадром</a></div><div class="menu-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/wl:start">Библиотека Странников</a></div></div><div class="side-block sns {$corner} {$new}"><div class="heading {$head} {$sandbox}"><p>Полигон</p></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/new-page-ru">Создать статью</a></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/most-recently-sandboxed">Статьи Полигона</a></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/moderation-page-control">Служебная панель</a></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/system:deleted-pages">Удалённые</a></div><div class="menu-item sub-item"><img src="//files.scpfoundation.net/local--files/nav:side/default.png" alt="default.png"><a href="/sandbox:drafts">Черновики</a></div></div><div class="side-block {$new}" id="u-side-footer"><h6><span><a href="/system:page-tags">Список доступных тегов</a></span></h6><div style="font-size:70%;color:#888;margin-top:7px"><p>© SCP Foundation Russia</p><p>Возрастное ограничение: <strong>18+</strong></p><p>Авторство: <a href="/licensing">объекты</a>, <a href="/licensing-ru">ru-объекты</a>, <a href="/wl:the-archives">рассказы Библиотеки</a></p></div></div><p><a class="close-menu" href="##"><img src="//files.scpfoundation.net/local--files/nav:side/black.png" alt="black.png" style="z-index:-1; opacity: 0.3;"></a><br><div class="w-interwiki" data-interwiki-configuration="{&quot;params&quot;: {&quot;omitlanguage&quot;: &quot;ru&quot;, &quot;appendline&quot;: &quot;[[/div]]&quot;, &quot;prependline&quot;: &quot;-----\n[[div class=\&quot;side-block sns {$corner} {$new}\&quot;]][[div class=\&quot;heading {$head} {$sandbox}\&quot;]]\u041d\u0430 \u0434\u0440\u0443\u0433\u0438\u0445 \u044f\u0437\u044b\u043a\u0430\u0445[[/div]]&quot;, &quot;article&quot;: &quot;%%this|fullname%%&quot;, &quot;language&quot;: &quot;ru&quot;, &quot;order&quot;: &quot;language_native&quot;}, &quot;content&quot;: &quot;  [[div_ class=\&quot;menu-item\&quot;]]\n  [[image nav:side/default.png]][[a href=\&quot;%%url%%\&quot; target=\&quot;_blank\&quot; title=\&quot;%%language%%\&quot;]]%%language_native%%[[/a]]\n  [[/div]]\n  &quot;, &quot;loading&quot;: null, &quot;pageId&quot;: null}">None</div></p></div></p><style>
+
+.menu-article-list {
+    display: flex;
+    justify-content: stretch;
+    width: 100%;
+}
+
+.menu-article-list a {
+    flex-grow: 1;
+    text-align: center;
+    display: block;
+}
+
+.side-flag-icons img {
+    filter: none !important;
+}
+
+iframe.scpnet-interwiki-frame {
+  width: 18em !important;
+}
+div.scpnet-interwiki-wrapper {
+  width: 18em !important;
+}
+
+.side-block .collapsible-block-link {
+  font-weight: bold;
+}
+@media (max-width: 767px) {
+  #side-bar:target {
+      overflow-x: hidden;
+  }
+}
+.old-bar {
+   display: none;
+}
+#side-bar br {
+   display: none;
+}</style>
+        
+                        </div>
+                        <div id="main-content">
+                            <div id="action-area-top"></div>
+                            <div id="page-title" style="display: none">
+                                
+                            </div>
+                            
+                            <div id="page-content">
+                                
+    <p id="404-message">Запрашиваемая вами страница <em></em> не существует.
+
+                            </div>
+                            <div class="page-tags">
+                                <span>
+                                <div>
+                                    
+                                </div>
+                                </span>
+                            </div>
+                            <div id="page-info-break"></div>
+                            
+                            <div id="page-options-container" data-config="{&quot;optionsEnabled&quot;: false, &quot;editable&quot;: false, &quot;lockable&quot;: false, &quot;pageId&quot;: &quot;api&quot;, &quot;rating&quot;: 0, &quot;ratingMode&quot;: &quot;disabled&quot;, &quot;ratingVotes&quot;: 0, &quot;ratingPopularity&quot;: 0, &quot;pathParams&quot;: {&quot;articles&quot;: &quot;&quot;}, &quot;canRate&quot;: false, &quot;canComment&quot;: false, &quot;commentThread&quot;: null, &quot;commentCount&quot;: 0, &quot;canDelete&quot;: false, &quot;canCreateTags&quot;: false}"></div>
+                            <div id="action-area"></div>
+                        </div>
+                    </div>
+                    <div id="footer"><a href="https://github.com/SCPru/RuFoundation" target="_blank">RuFoundation engine</a> powered by a fork of FTML originally made by the <a href="https://github.com/scpwiki/wikijump">WikiJump</a> team</div>
+                    <div id="license-area" class="license-area">
+                        Пока не указано иное, содержимое этой страницы распространяется по лицензии <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative Commons Attribution-ShareAlike 3.0 License</a>.
+                    </div>
+                    <div id="extrac-div-1"><span></span></div>
+                    <div id="extrac-div-2"><span></span></div>
+                    <div id="extrac-div-3"><span></span></div>
+                </div>
+            </div>
+            <div id="extra-div-1"><span></span></div>
+            <div id="extra-div-2"><span></span></div>
+            <div id="extra-div-3"><span></span></div>
+            <div id="extra-div-4"><span></span></div>
+            <div id="extra-div-5"><span></span></div>
+            <div id="extra-div-6"><span></span></div>
+            <div id="w-extra-div-1"><span></span></div>
+            <div id="w-extra-div-2"><span></span></div>
+            <div id="w-extra-div-3"><span></span></div>
+            <div id="w-extra-div-4"><span></span></div>
+            <div id="w-extra-div-5"><span></span></div>
+            <div id="w-extra-div-6"><span></span></div>
+        </div>
+    </div>
+    <div id="dummy-ondomready-block" style="display: none"></div>
+    <div id="w-modals"></div>
+</body>
+</html>
