@@ -1,1 +1,3 @@
 ftml2html
+scp/articles_html/*.html
+convert.log
