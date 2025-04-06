@@ -51,10 +51,10 @@ fn main() {
     let (tree, _warnings) = result.into();
     let html_output = HtmlRender.render(&tree, &page_info, callbacks, &settings);
 
-    let js = "<script src='script.js'></script>";
+    let head = "<script src='script.js'></script><link rel='stylesheet' href='style.css'>";
 
     // TODO - maybe add tags between title and html_output.body
-    let mut content = "<html><title>".to_owned() + &title + "</title>"+js+ "</head><body onload='loadscript();'>" +"<h1>" + &title + "</h1>" + &html_output.body + "</body></html>";
+    let mut content = "<html><title>".to_owned() + &title + "</title>"+head+ "</head><body onload='loadscript();'>" +"<h1>" + &title + "</h1>" + &html_output.body + "</body></html>";
     content = content.replace("\\n","<br>");
     let re = Regex::new(r#"href="/(.*?)""#).unwrap();
     content = re.replace_all(&content, r#"href="$1.html""#).to_string();
